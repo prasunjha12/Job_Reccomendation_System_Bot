@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Matching Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Job Matching Bot!</h1>
+        <form id="chatForm" method="post" id="chatForm">
+            <label for="formData">Enter your skills separated by commas:(the last integer should be your experience in years)</label>
+            <input type="text" id="formData" name="fromData" placeholder="e.g. Python, Data Analysis, 3">
+            <button type="submit">Find Jobs</button>
+        </form>
+        <div id="responseContainer"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+

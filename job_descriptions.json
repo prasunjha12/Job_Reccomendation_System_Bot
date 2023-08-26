@@ -1,0 +1,98 @@
+[
+    {
+      "Role": "Software Engineer",
+      "Company Name": "Tech Innovators Inc.",
+      "Location": "San Francisco, CA",
+      "Skills Required": [
+        "Python",
+        "JavaScript",
+        "Web Application Development"
+      ],
+      "Experience Required":"3",
+      "Job Description": "Join our dynamic team as a Software Engineer and contribute to building cutting-edge web applications. We are looking for passionate developers with a strong foundation in Python, JavaScript, and web development."
+    },
+    {
+      "Role": "Marketing Specialist",
+      "Company Name": "Global Marketing Solutions",
+      "Location": "New York, NY",
+      "Skills Required": [
+        "Digital Marketing",
+        "Social Media",
+        "Content Creation"
+      ],
+      "Experience Required": "2",
+      "Job Description": "Are you a creative marketer with a knack for digital strategies? Join our team as a Marketing Specialist and help drive our brand's growth through engaging digital campaigns and innovative content creation."
+    },
+    {
+      "Role": "Data Analyst",
+      "Company Name": "Data Insights Co.",
+      "Location": "Seattle, WA",
+      "Skills Required": [
+        "Data Analysis",
+        "SQL",
+        "Statistical Analysis"
+      ],
+      "Experience Required": "2",
+      "Job Description": "Data Analysts at Data Insights Co. play a crucial role in uncovering insights from complex datasets. If you're skilled in SQL, data visualization, and statistical analysis, join us in shaping data-driven decisions."
+    },
+    {
+      "Role": "Graphic Designer",
+      "Company Name": "Creative Creations Studio",
+      "Location": "Los Angeles, CA",
+      "Skills Required": [
+        "Graphic Design",
+        "Adobe Creative Suite",
+        "Visual Communication"
+      ],
+      "Experience Required": "3",
+      "Job Description": "Are you a talented Graphic Designer with a passion for creating visually stunning designs? Join our team and bring your creative ideas to life, crafting compelling visuals that resonate with our audience."
+    },
+    {
+      "Role": "Financial Analyst",
+      "Company Name": "MoneyMatters Corp.",
+      "Location": "Chicago, IL",
+      "Skills Required": [
+        "Financial Analysis",
+        "Excel",
+        "Budgeting"
+      ],
+      "Experience Required": "4",
+      "Job Description": "MoneyMatters Corp. is seeking an experienced Financial Analyst to help us make informed financial decisions. If you're skilled in financial modeling, data analysis, and budgeting, join our team and contribute to our financial success."
+    },
+    {
+      "Role": "UX/UI Designer",
+      "Company Name": "User Experience Innovators",
+      "Location": "Austin, TX",
+      "Skills Required": [
+        "UX Design",
+        "UI Design",
+        "Wireframing"
+      ],
+      "Experience Required": "3",
+      "Job Description": "Join our team as a UX/UI Designer and create intuitive and user-friendly digital experiences. We're looking for designers who can translate user needs into elegant designs, incorporating both UX principles and aesthetic appeal."
+    },
+    {
+      "Role": "Sales Representative",
+      "Company Name": "SalesBoost Solutions",
+      "Location": "Denver, CO",
+      "Skills Required": [
+        "Sales",
+        "Client Relationship",
+        "Negotiation"
+      ],
+      "Experience Required": "2",
+      "Job Description": "Are you a self-motivated Sales Representative with a passion for building client relationships and driving revenue growth? Join our sales team and help us expand our customer base through effective sales strategies."
+    },
+    {
+      "Role": "Content Writer",
+      "Company Name": "Wordsmith Creations",
+      "Location": "Portland, OR",
+      "Skills Required": [
+        "Content Creation",
+        "Copywriting",
+        "SEO"
+      ],
+      "Experience Required": "3",
+      "Job Description": "If you have a way with words and a passion for storytelling, join us as a Content Writer. We're seeking creative writers who can produce engaging and informative content across various platforms and topics."
+    }
+  ]
